@@ -1,1 +1,1 @@
-# project-bomberman
+# 2d игра bomberman на c++ с использованием графической библиотеки sfml
